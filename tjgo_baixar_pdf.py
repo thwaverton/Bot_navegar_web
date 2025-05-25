@@ -64,7 +64,7 @@ else:
         
 
 
-
+# aqui e so bale la , para pode enteder como navegar noo site
 # #localizar o campo de pesquisa
 # campo_pesquisa = navegador.find_element("xpath", "//input[@placeholder='Utilize aspas duplas para realizar uma busca exata. Exemplo: \"indenização por erro médico\".']")
 # #digitar o termo de pesquisa
